@@ -11,23 +11,15 @@
   </p>
 </p>
 
+## Usage
+
+First, utilize the spider tool to generate a file. Next, convert this file into a TXT format. Finally, execute the crawl operation with the generated TXT file as the destination, enabling the site exploration.
 
 ## Installation
 
 ### GO install
 ```
 GO111MODULE=on go install github.com/jaeles-project/gospider@latest
-```
-
-### Docker
-
-```bash
-# Clone the repo
-git clone https://github.com/jaeles-project/gospider.git
-# Build the contianer
-docker build -t gospider:latest gospider
-# Run the container
-docker run -t gospider -h
 ```
 
 ## Features
@@ -158,12 +150,3 @@ gospider -s "https://google.com/" -o output -c 10 -d 1 --blacklist ".(woff|pdf)"
 ```
 gospider -s "https://google.com/" -o output -c 10 -d 1 --length --filter-length "6871,24432"   
 ```
-
-## License
-
-`Gospider` is made with ♥ by [@j3ssiejjj](https://twitter.com/j3ssiejjj)
-& [@thebl4ckturtle](https://twitter.com/thebl4ckturtle) and it is released under the MIT license.
-
-## Donation
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/j3ssiejjj)
