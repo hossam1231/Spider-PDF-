@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # GoSpider
 
 **GoSpider** - Fast web spider written in Go
@@ -23,27 +22,12 @@ GO111MODULE=on go install github.com/jaeles-project/gospider@latest
 ### Docker
 
 ```bash
-=======
-GoSpider
-GoSpider - Fast web spider written in Go
-
-Painless integrate Gospider into your recon workflow?
-OsmedeusEngine
-
-this project was part of Osmedeus Engine. Check out how it was integrated at @OsmedeusEngine
-
-Installation
-GO install
-GO111MODULE=on go install github.com/jaeles-project/gospider@latest
-Docker
->>>>>>> main
 # Clone the repo
 git clone https://github.com/jaeles-project/gospider.git
 # Build the contianer
 docker build -t gospider:latest gospider
 # Run the container
 docker run -t gospider -h
-<<<<<<< HEAD
 ```
 
 ## Features
@@ -68,25 +52,6 @@ docker run -t gospider -h
 ## Usage
 
 ```shell
-=======
-Features
-Fast web crawling
-Brute force and parse sitemap.xml
-Parse robots.txt
-Generate and verify link from JavaScript files
-Link Finder
-Find AWS-S3 from response source
-Find subdomains from response source
-Get URLs from Wayback Machine, Common Crawl, Virus Total, Alien Vault
-Format output easy to Grep
-Support Burp input
-Crawl multiple sites in parallel
-Random mobile/web User-Agent
-Showcases
-asciicast
-
-Usage
->>>>>>> main
 Fast web spider written in Go - v1.1.5 by @thebl4ckturtle & @j3ssiejjj
 
 Usage:
@@ -131,7 +96,6 @@ Flags:
       --no-redirect               Disable redirect
       --version                   Check version
   -h, --help                      help for gospider
-<<<<<<< HEAD
 
 ```
 
@@ -203,28 +167,3 @@ gospider -s "https://google.com/" -o output -c 10 -d 1 --length --filter-length 
 ## Donation
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/j3ssiejjj)
-=======
-Example commands
-Quite output
-gospider -q -s "https://google.com/"
-Run with single site
-gospider -s "https://google.com/" -o output -c 10 -d 1
-Run with site list
-gospider -S sites.txt -o output -c 10 -d 1
-Run with 20 sites at the same time with 10 bot each site
-gospider -S sites.txt -o output -c 10 -d 1 -t 20
-Also get URLs from 3rd party (Archive.org, CommonCrawl.org, VirusTotal.com, AlienVault.com)
-gospider -s "https://google.com/" -o output -c 10 -d 1 --other-source
-Also get URLs from 3rd party (Archive.org, CommonCrawl.org, VirusTotal.com, AlienVault.com) and include subdomains
-gospider -s "https://google.com/" -o output -c 10 -d 1 --other-source --include-subs
-Use custom header/cookies
-gospider -s "https://google.com/" -o output -c 10 -d 1 --other-source -H "Accept: */*" -H "Test: test" --cookie "testA=a; testB=b"
-
-gospider -s "https://google.com/" -o output -c 10 -d 1 --other-source --burp burp_req.txt
-Blacklist url/file extension.
-P/s: gospider blacklisted .(jpg|jpeg|gif|css|tif|tiff|png|ttf|woff|woff2|ico) as default
-
-gospider -s "https://google.com/" -o output -c 10 -d 1 --blacklist ".(woff|pdf)"
-Show and Blacklist file length.
-gospider -s "https://google.com/" -o output -c 10 -d 1 --length --filter-length "6871,24432"   
->>>>>>> main
