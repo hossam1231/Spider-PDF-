@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#">
+  <head>
+    <meta charset="utf-8" />
+<meta property="og:determiner" content="auto" />
+<meta property="og:site_name" content="Public Health" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="https://health.ec.europa.eu/profiles/contrib/ewcms/modules/ewcms_seo/assets/images/ec-socialmedia-fallback.png" />
+<meta property="og:image:alt" content="Public Health" />
+<meta name="twitter:image:alt" content="Public Health" />
+<meta name="twitter:image" content="https://health.ec.europa.eu/profiles/contrib/ewcms/modules/ewcms_seo/assets/images/ec-socialmedia-fallback.png" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<script type="application/json">{"utility":"piwik","siteID":"309","sitePath":["health.ec.europa.eu"],"is403":true,"instance":"ec.europa.eu"}</script>
+<script type="application/json">{"utility":"cck"}</script>
+<script type="application/json">{"service":"laco","include":"#block-ewcms-theme-main-page-content .ecl","coverage":{"document":"any","page":"any"},"icon":"all","exclude":".nolaco, .ecl-file, .ecl-content-item__title","ignore":["filename=([A-Za-z0-9\\-\\_]+)_([A-Za-z]{2}).pdf"]}</script>
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/profiles/contrib/ewcms/themes/ewcms_theme/images/favicons/ec/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="icon" href="/profiles/contrib/ewcms/themes/ewcms_theme/images/favicons/ec/favicon.svg" type="image/svg+xml" />
+<link rel="apple-touch-icon" href="/profiles/contrib/ewcms/themes/ewcms_theme/images/favicons/ec/favicon.png" />
+
+    <title>Access denied | Public Health</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_JDpNOY1tdmRiNCGESPBSV1Z3K-jX9vjL5QLj7kKfybI.css?delta=0&amp;language=en&amp;theme=ewcms_theme&amp;include=eJxVjFEOwjAMQy9U6JGitDNQqW2mJNvo7QFtgPZn-9kWkD_QELO0WTq6Uy1JWQchBwFtSC5SLU66zFyvX3-xxupVeIIGG-ZoMbHhs9kf8XRo50q23v_prKV7wJabHcmtoE70a5cs_cR3zW82vGQ7s0y26IrxAivOT3o" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_6ulM-uCcpTX7O0B5xvMIxcNjxZuZHKLL4OqYD5Mbepk.css?delta=1&amp;language=en&amp;theme=ewcms_theme&amp;include=eJxVjFEOwjAMQy9U6JGitDNQqW2mJNvo7QFtgPZn-9kWkD_QELO0WTq6Uy1JWQchBwFtSC5SLU66zFyvX3-xxupVeIIGG-ZoMbHhs9kf8XRo50q23v_prKV7wJabHcmtoE70a5cs_cR3zW82vGQ7s0y26IrxAivOT3o" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_vgeMldnII34YZ5W_WWcqPuiircExbvIIR4DxT0FDguI.css?delta=2&amp;language=en&amp;theme=ewcms_theme&amp;include=eJxVjFEOwjAMQy9U6JGitDNQqW2mJNvo7QFtgPZn-9kWkD_QELO0WTq6Uy1JWQchBwFtSC5SLU66zFyvX3-xxupVeIIGG-ZoMbHhs9kf8XRo50q23v_prKV7wJabHcmtoE70a5cs_cR3zW82vGQ7s0y26IrxAivOT3o" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_GAGh6y8m5lY85mAGTpwZYG03FGdb_IBNYhDXx7lgktI.css?delta=3&amp;language=en&amp;theme=ewcms_theme&amp;include=eJxVjFEOwjAMQy9U6JGitDNQqW2mJNvo7QFtgPZn-9kWkD_QELO0WTq6Uy1JWQchBwFtSC5SLU66zFyvX3-xxupVeIIGG-ZoMbHhs9kf8XRo50q23v_prKV7wJabHcmtoE70a5cs_cR3zW82vGQ7s0y26IrxAivOT3o" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_Vvesiua9IVUNAIQiqjdrzncy_oIyi-uHb6ZNK4BBJjM.css?delta=4&amp;language=en&amp;theme=ewcms_theme&amp;include=eJxVjFEOwjAMQy9U6JGitDNQqW2mJNvo7QFtgPZn-9kWkD_QELO0WTq6Uy1JWQchBwFtSC5SLU66zFyvX3-xxupVeIIGG-ZoMbHhs9kf8XRo50q23v_prKV7wJabHcmtoE70a5cs_cR3zW82vGQ7s0y26IrxAivOT3o" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_ir9Isaj29YOfvUg13l5WgciFiC0N8CFosw4-YUeD1RA.css?delta=5&amp;language=en&amp;theme=ewcms_theme&amp;include=eJxVjFEOwjAMQy9U6JGitDNQqW2mJNvo7QFtgPZn-9kWkD_QELO0WTq6Uy1JWQchBwFtSC5SLU66zFyvX3-xxupVeIIGG-ZoMbHhs9kf8XRo50q23v_prKV7wJabHcmtoE70a5cs_cR3zW82vGQ7s0y26IrxAivOT3o" />
+
+    
+  </head>
+  <body class="language-en ecl-typography path-system">
+          <a
+  href="#main-content"
+  class="ecl-link ecl-link--primary ecl-skip-link"
+   id="skip-id"
+>Skip to main content</a>
+
+        <div id="cck_here"></div>    <script type="application/json">{"utility":"globan","theme":"dark","logo":true,"link":true,"mode":false}</script>
+
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+      <header
+  class="ecl-site-header "
+  data-ecl-auto-init="SiteHeader"
+>
+  
+    <div class="ecl-site-header__header">
+        <div class="ecl-site-header__background">
+      <div class="ecl-site-header__header">
+        <div class="ecl-site-header__container ecl-container">
+          <div class="ecl-site-header__top" data-ecl-site-header-top>
+                <a
+    class="ecl-link ecl-link--standalone ecl-site-header__logo-link"
+    href="https://commission.europa.eu/index_en"
+    aria-label="Home - European Commission"
+    data-aria-label-en="Home - European Commission"
+  >
+                                <picture class="ecl-picture ecl-site-header__picture" title="European&#x20;Commission"><source 
+                  srcset="/themes/contrib/oe_theme/dist/ec/images/logo/positive/logo-ec--en.svg"
+                          media="(min-width: 996px)"
+                      ><img 
+          class="ecl-site-header__logo-image"
+              src="/themes/contrib/oe_theme/dist/ec/images/logo/logo-ec--mute.svg"
+              alt="European Commission logo"
+      /></picture>  </a>
+
+
+            <div class="ecl-site-header__action">
+                <div class="ecl-site-header__language"><a
+    class="ecl-button ecl-button--tertiary ecl-site-header__language-selector"
+    href="https://health.ec.europa.eu/error/403_en"
+    data-ecl-language-selector
+    role="button"
+    aria-label="Change language, current language is English"
+      aria-controls="language-list-overlay"
+    ><span class="ecl-site-header__language-icon"><svg
+  class="ecl-icon ecl-icon--s ecl-site-header__icon"
+  focusable="false"
+  aria-hidden="false"
+   role="img"><title
+    >en</title><use xlink:href="/themes/contrib/oe_theme/dist/ec/images/icons/sprites/icons.svg#global"></use></svg></span>en</a><div class="ecl-site-header__language-container" id="language-list-overlay" hidden data-ecl-language-list-overlay aria-labelledby="ecl-site-header__language-title" role="dialog"><div class="ecl-site-header__language-header"><div
+        class="ecl-site-header__language-title"
+        id="ecl-site-header__language-title"
+      >Select your language</div><button class="ecl-button ecl-button--tertiary ecl-site-header__language-close ecl-button--icon-only" type="submit"  data-ecl-language-list-close><span class="ecl-button__container"><span class="ecl-button__label" data-ecl-label="true">Close</span><svg
+  class="ecl-icon ecl-icon--m ecl-button__icon"
+  focusable="false"
+  aria-hidden="true"
+   data-ecl-icon><use xlink:href="/themes/contrib/oe_theme/dist/ec/images/icons/sprites/icons.svg#close"></use></svg></span></button></div><div class="ecl-site-header__language-content"><div class="ecl-site-header__language-category" data-ecl-language-list-eu><ul class="ecl-site-header__language-list"><li class="ecl-site-header__language-item"><a
+  href="https://health.ec.europa.eu/error/403_bg"
+  class="ecl-link ecl-link--standalone ecl-link--no-visited ecl-site-header__language-link"
+   lang="bg" hreflang="bg"
+><span class="ecl-site-header__language-link-code">bg</span><span class="ecl-site-header__language-link-label">български</span></a></li><li class="ecl-site-header__language-item"><a
+  href="https://health.ec.europa.eu/error/403_es"
+  class="ecl-link ecl-link--standalone ecl-link--no-visited ecl-site-header__language-link"
+   lang="es" hreflang="es"
+><span class="ecl-site-header__language-link-code">es</span><span class="ecl-site-header__language-link-label">español</span></a></li><li class="ecl-site-header__language-item"><a
+  href="https://health.ec.europa.eu/error/403_cs"
+  class="ecl-link ecl-link--standalone ecl-link--no-visited ecl-site-header__language-link"
+   lang="cs" hreflang="cs"
+><span class="ecl-site-header__language-link-code">cs</span><span class="ecl-site-header__language-link-label">čeština</span></a></li><li class="ecl-site-header__language-item"><a
+  href="https://health.ec.europa.eu/error/403_da"
+  class="ecl-link ecl-link--standalone ecl-link--no-visited ecl-site-header__language-link"
+   lang="da" hreflang="da"
+><span class="ecl-site-header__language-link-code">da</span><span class="ecl-site-header__language-link-label">dansk</span></a></li><li class="ecl-site-header__language-item"><a
+  href="https://health.ec.europa.eu/error/403_de"
+  class="ecl-link ecl-link--standalone ecl-link--no-visited ecl-site-header__language-link"
+   lang="de" hreflang="de"
+><span class="ecl-site-header__language-link-code">de</span><span class="ecl-site-header__language-link-label">Deutsch</span></a></li><li class="ecl-site-header__language-item"><a
+  href="https://health.ec.europa.eu/error/403_et"
+  class="ecl-link ecl-link--standalone ecl-link--no-visited ecl-site-header__language-link"
+   lang="et" hreflang="et"
+><span class="ecl-site-header__language-link-code">et</span><span class="ecl-site-header__language-link-label">eesti</span></a></li><li class="ecl-site-header__language-item"><a
+  href="https://health.ec.europa.eu/error/403_el"
+  class="ecl-link ecl-link--standalone ecl-link--no-visited ecl-site-header__language-link"
+   lang="el" hreflang="el"
+><span class="ecl-site-header__language-link-code">el</span><span class="ecl-site-header__language-link-label">ελληνικά</span></a></li><li class="ecl-site-header__language-item"><a
+  href="https://health.ec.europa.eu/error/403_en"
+  class="ecl-link ecl-link--standalone ecl-link--no-visited ecl-site-header__language-link ecl-site-header__language-link--active"
+   lang="en" hreflang="en"
+><span class="ecl-site-header__language-link-code">en</span><span class="ecl-site-header__language-link-label">English</span></a></li><li class="ecl-site-header__language-item"><a
+  href="https://health.ec.europa.eu/error/403_fr"
+  class="ecl-link ecl-link--standalone ecl-link--no-visited ecl-site-header__language-link"
+   lang="fr" hreflang="fr"
+><span class="ecl-site-header__language-link-code">fr</span><span class="ecl-site-header__language-link-label">français</span></a></li><li class="ecl-site-header__language-item"><a
+  href="https://health.ec.europa.eu/error/403_ga"
+  class="ecl-link ecl-link--standalone ecl-link--no-visited ecl-site-header__language-link"
+   lang="ga" hreflang="ga"
+><span class="ecl-site-header__language-link-code">ga</span><span class="ecl-site-header__language-link-label">Gaeilge</span></a></li><li class="ecl-site-header__language-item"><a
+  href="https://health.ec.europa.eu/error/403_hr"
+  class="ecl-link ecl-link--standalone ecl-link--no-visited ecl-site-header__language-link"
+   lang="hr" hreflang="hr"
+><span class="ecl-site-header__language-link-code">hr</span><span class="ecl-site-header__language-link-label">hrvatski</span></a></li><li class="ecl-site-header__language-item"><a
+  href="https://health.ec.europa.eu/error/403_it"
+  class="ecl-link ecl-link--standalone ecl-link--no-visited ecl-site-header__language-link"
+   lang="it" hreflang="it"
+><span class="ecl-site-header__language-link-code">it</span><span class="ecl-site-header__language-link-label">italiano</span></a></li><li class="ecl-site-header__language-item"><a
+  href="https://health.ec.europa.eu/error/403_lv"
+  class="ecl-link ecl-link--standalone ecl-link--no-visited ecl-site-header__language-link"
+   lang="lv" hreflang="lv"
+><span class="ecl-site-header__language-link-code">lv</span><span class="ecl-site-header__language-link-label">latviešu</span></a></li><li class="ecl-site-header__language-item"><a
+  href="https://health.ec.europa.eu/error/403_lt"
+  class="ecl-link ecl-link--standalone ecl-link--no-visited ecl-site-header__language-link"
+   lang="lt" hreflang="lt"
+><span class="ecl-site-header__language-link-code">lt</span><span class="ecl-site-header__language-link-label">lietuvių</span></a></li><li class="ecl-site-header__language-item"><a
+  href="https://health.ec.europa.eu/error/403_hu"
+  class="ecl-link ecl-link--standalone ecl-link--no-visited ecl-site-header__language-link"
+   lang="hu" hreflang="hu"
+><span class="ecl-site-header__language-link-code">hu</span><span class="ecl-site-header__language-link-label">magyar</span></a></li><li class="ecl-site-header__language-item"><a
+  href="https://health.ec.europa.eu/error/403_mt"
+  class="ecl-link ecl-link--standalone ecl-link--no-visited ecl-site-header__language-link"
+   lang="mt" hreflang="mt"
+><span class="ecl-site-header__language-link-code">mt</span><span class="ecl-site-header__language-link-label">Malti</span></a></li><li class="ecl-site-header__language-item"><a
+  href="https://health.ec.europa.eu/error/403_nl"
+  class="ecl-link ecl-link--standalone ecl-link--no-visited ecl-site-header__language-link"
+   lang="nl" hreflang="nl"
+><span class="ecl-site-header__language-link-code">nl</span><span class="ecl-site-header__language-link-label">Nederlands</span></a></li><li class="ecl-site-header__language-item"><a
+  href="https://health.ec.europa.eu/error/403_pl"
+  class="ecl-link ecl-link--standalone ecl-link--no-visited ecl-site-header__language-link"
+   lang="pl" hreflang="pl"
+><span class="ecl-site-header__language-link-code">pl</span><span class="ecl-site-header__language-link-label">polski</span></a></li><li class="ecl-site-header__language-item"><a
+  href="https://health.ec.europa.eu/error/403_pt"
+  class="ecl-link ecl-link--standalone ecl-link--no-visited ecl-site-header__language-link"
+   lang="pt" hreflang="pt"
+><span class="ecl-site-header__language-link-code">pt</span><span class="ecl-site-header__language-link-label">português</span></a></li><li class="ecl-site-header__language-item"><a
+  href="https://health.ec.europa.eu/error/403_ro"
+  class="ecl-link ecl-link--standalone ecl-link--no-visited ecl-site-header__language-link"
+   lang="ro" hreflang="ro"
+><span class="ecl-site-header__language-link-code">ro</span><span class="ecl-site-header__language-link-label">română</span></a></li><li class="ecl-site-header__language-item"><a
+  href="https://health.ec.europa.eu/error/403_sk"
+  class="ecl-link ecl-link--standalone ecl-link--no-visited ecl-site-header__language-link"
+   lang="sk" hreflang="sk"
+><span class="ecl-site-header__language-link-code">sk</span><span class="ecl-site-header__language-link-label">slovenčina</span></a></li><li class="ecl-site-header__language-item"><a
+  href="https://health.ec.europa.eu/error/403_sl"
+  class="ecl-link ecl-link--standalone ecl-link--no-visited ecl-site-header__language-link"
+   lang="sl" hreflang="sl"
+><span class="ecl-site-header__language-link-code">sl</span><span class="ecl-site-header__language-link-label">slovenščina</span></a></li><li class="ecl-site-header__language-item"><a
+  href="https://health.ec.europa.eu/error/403_fi"
+  class="ecl-link ecl-link--standalone ecl-link--no-visited ecl-site-header__language-link"
+   lang="fi" hreflang="fi"
+><span class="ecl-site-header__language-link-code">fi</span><span class="ecl-site-header__language-link-label">suomi</span></a></li><li class="ecl-site-header__language-item"><a
+  href="https://health.ec.europa.eu/error/403_sv"
+  class="ecl-link ecl-link--standalone ecl-link--no-visited ecl-site-header__language-link"
+   lang="sv" hreflang="sv"
+><span class="ecl-site-header__language-link-code">sv</span><span class="ecl-site-header__language-link-label">svenska</span></a></li></ul></div></div></div></div>
+<div class="ecl-site-header__search-container" role="search">
+  <a
+    class="ecl-button ecl-button--tertiary ecl-site-header__search-toggle"
+    href=""
+    data-ecl-search-toggle="true"
+    aria-controls="oe-search-search-form"
+    aria-expanded="false"
+  ><svg
+  class="ecl-icon ecl-icon--s ecl-site-header__icon"
+  focusable="false"
+  aria-hidden="true"
+   role="img"><use xlink:href="/themes/contrib/oe_theme/dist/ec/images/icons/sprites/icons.svg#search"></use></svg>Search
+  </a>
+  <form class="ecl-search-form ecl-site-header__search" role="search" action="/system/files/2022-02/regulation5362014_qa_en_1.pdf" method="post" id="oe-search-search-form" accept-charset="UTF-8" data-ecl-search-form><div class="ecl-form-group"><label
+                  for="edit-keys"
+            id="edit-keys-label"
+          class="ecl-form-label ecl-search-form__label"
+    >Search</label><input
+      id="edit-keys"
+      class="ecl-text-input ecl-text-input--m ecl-search-form__text-input"
+      name="keys"
+        type="search"
+            
+  /></div><button class="ecl-button ecl-button--ghost ecl-search-form__button" type="submit"  aria-label="Search"><span class="ecl-button__container"><svg
+  class="ecl-icon ecl-icon--xs ecl-button__icon"
+  focusable="false"
+  aria-hidden="true"
+   data-ecl-icon><use xlink:href="/themes/contrib/oe_theme/dist/ec/images/icons/sprites/icons.svg#search"></use></svg><span class="ecl-button__label" data-ecl-label="true">Search</span></span></button><input autocomplete="off" data-drupal-selector="form-qch2tfykv76z4pdit07izfkhp0fc1lnltaakkst-u8i" type="hidden" name="form_build_id" value="form-Qch2TFYkV76Z4PDIt07IZFkHP0Fc1lNLTaakkst_u8I" /><input data-drupal-selector="edit-oe-search-search-form" type="hidden" name="form_id" value="oe_search_search_form" /></form>
+  <script type="application/json">{"service":"search","results":"in","form":".ecl-search-form","lang":"en","key":"europa_default"}</script>
+
+</div>
+
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+  </div>
+    
+  
+          <div class="ecl-site-header__banner">
+      <div class="ecl-container">
+                  <div class="ecl-site-header__site-name">Public Health</div>
+                      </div>
+    </div>
+      <div id="block-ewcms-theme-horizontal-menu">
+  
+    
+      
+
+
+
+
+  </div>
+
+
+
+</header>
+
+            <div id="block-ewcms-theme-page-header">
+  
+    
+      
+                
+  
+
+<div class="ecl-page-header" ><div class="ecl-container"><nav class="ecl-breadcrumb ecl-page-header__breadcrumb" aria-label="You&#x20;are&#x20;here&#x3A;" aria-label="" data-ecl-breadcrumb="true" data-ecl-auto-init="Breadcrumb"><ol class="ecl-breadcrumb__container"><li class="ecl-breadcrumb__segment" data-ecl-breadcrumb-item="static"><a
+  href="/index_en"
+  class="ecl-link ecl-link--standalone ecl-link--no-visited ecl-breadcrumb__link"
+  
+>Home</a><svg
+  class="ecl-icon ecl-icon--fluid ecl-breadcrumb__icon"
+  focusable="false"
+  aria-hidden="true"
+   role="presentation"><use xlink:href="/themes/contrib/oe_theme/dist/ec/images/icons/sprites/icons.svg#corner-arrow"></use></svg></li><li
+            class="ecl-breadcrumb__segment ecl-breadcrumb__segment--ellipsis"
+            data-ecl-breadcrumb-ellipsis
+            ><button class="ecl-button ecl-button--ghost ecl-breadcrumb__ellipsis" type="button"  data-ecl-breadcrumb-ellipsis-button aria-label="">…</button><svg
+  class="ecl-icon ecl-icon--fluid ecl-breadcrumb__icon"
+  focusable="false"
+  aria-hidden="true"
+   role="presentation"><use xlink:href="/themes/contrib/oe_theme/dist/ec/images/icons/sprites/icons.svg#corner-arrow"></use></svg></li><li class="ecl-breadcrumb__segment" data-ecl-breadcrumb-item="expandable"><a
+  href="/system/files_en"
+  class="ecl-link ecl-link--standalone ecl-link--no-visited ecl-breadcrumb__link"
+  
+>Files</a><svg
+  class="ecl-icon ecl-icon--fluid ecl-breadcrumb__icon"
+  focusable="false"
+  aria-hidden="true"
+   role="presentation"><use xlink:href="/themes/contrib/oe_theme/dist/ec/images/icons/sprites/icons.svg#corner-arrow"></use></svg></li><li class="ecl-breadcrumb__segment" data-ecl-breadcrumb-item="static"><a
+  href="/system/files/2022-02_en"
+  class="ecl-link ecl-link--standalone ecl-link--no-visited ecl-breadcrumb__link"
+  
+>2022 02</a><svg
+  class="ecl-icon ecl-icon--fluid ecl-breadcrumb__icon"
+  focusable="false"
+  aria-hidden="true"
+   role="presentation"><use xlink:href="/themes/contrib/oe_theme/dist/ec/images/icons/sprites/icons.svg#corner-arrow"></use></svg></li><li class="ecl-breadcrumb__segment ecl-breadcrumb__current-page" data-ecl-breadcrumb-item="static" aria-current="page">Access denied</li></ol></nav><div class="ecl-page-header__info"><h1 class="ecl-page-header__title">Access denied</h1></div></div></div>
+  </div>
+
+
+  
+
+  <main class="ecl-u-pb-xl" id="main-content" data-inpage-navigation-source-area="h2.ecl-u-type-heading-2, div.ecl-featured-item__heading">
+    <div class="ecl-container">
+      <div class="ecl-row">
+        <div class="ecl-col-s-12 ewcms-top-sidebar">
+            <div>
+    <div data-drupal-messages-fallback class="hidden"></div>
+  </div>
+
+        </div>
+      </div>
+      <div class="ecl-row">
+        <div class="ecl-col-s-12">
+                      <div id="block-ewcms-theme-main-page-content" data-inpage-navigation-source-area="h2, div.ecl-featured-item__heading" class="ecl-u-mb-l">
+  
+    
+      
+<div class="ecl-u-type-paragraph">
+  You are not authorized to access this page.
+</div>
+
+  </div>
+
+            
+                  </div>
+      </div>
+      <div class="ecl-row">
+        <div class="ecl-col-s-12">
+          
+          
+        </div>
+      </div>
+    </div>
+  </main>
+
+        
+
+                        
+        
+        
+        
+  
+    
+  
+
+
+  
+    
+    <footer class="ecl-site-footer" data-logo-area-label-en="Home&#x20;-&#x20;European&#x20;Commission"><div class="ecl-container ecl-site-footer__container"><div class="ecl-site-footer__row"><div class="ecl-site-footer__column"><div class="ecl-site-footer__section ecl-site-footer__section--site-info"><h2 class="ecl-site-footer__title"><a
+  href="https://health.ec.europa.eu/index_en"
+  class="ecl-link ecl-link--standalone ecl-site-footer__title-link"
+  
+>Public Health</a></h2><div class="ecl-site-footer__description">This site is managed by:<br />Directorate-General for Health and Food Safety</div><ul class="ecl-site-footer__list"><li class="ecl-site-footer__list-item"><a
+  href="/accessibility-statement_en"
+  class="ecl-link ecl-link--standalone ecl-link--inverted ecl-site-footer__link"
+   data-is-accessibility-link="true"
+>Accessibility</a></li></ul></div></div><div class="ecl-site-footer__column"><div class="ecl-site-footer__section"><h2 class="ecl-site-footer__title">Contact us</h2><ul class="ecl-site-footer__list"><li class="ecl-site-footer__list-item"><a
+  href="https://europa.eu/european-union/contact_en"
+  class="ecl-link ecl-link--standalone ecl-link--inverted ecl-site-footer__link"
+   data-section-label-untranslated="Contact&#x20;us" data-footer-link-label="Contact&#x20;us"
+>Contact us</a></li></ul></div><div class="ecl-site-footer__section"><h2 class="ecl-site-footer__title">Follow us</h2><ul class="ecl-site-footer__list ecl-site-footer__list--inline"><li class="ecl-site-footer__list-item"><a
+  href="https://twitter.com/EU_Health"
+  class="ecl-link ecl-link--standalone ecl-link--inverted ecl-link--icon ecl-site-footer__link"
+   data-section-label-untranslated="Follow&#x20;us" data-footer-link-label="EU&#x20;Health"
+><svg
+  class="ecl-icon ecl-icon--m ecl-link__icon"
+  focusable="false"
+  aria-hidden="true"
+  ><use xlink:href="/themes/contrib/oe_theme/dist/ec/images/icons-social-media/sprites/icons-social-media.svg#twitter-negative"></use></svg><span 
+      class="ecl-link__label">EU Health</span></a></li><li class="ecl-site-footer__list-item"><a
+  href="/latest-updates_en"
+  class="ecl-link ecl-link--standalone ecl-link--inverted ecl-link--icon ecl-site-footer__link"
+   data-section-label-untranslated="Follow&#x20;us" data-footer-link-label="Latest&#x20;updates"
+><svg
+  class="ecl-icon ecl-icon--m ecl-link__icon"
+  focusable="false"
+  aria-hidden="true"
+  ><use xlink:href="/themes/contrib/oe_theme/dist/ec/images/icons-social-media/sprites/icons-social-media.svg#rss-negative"></use></svg><span 
+      class="ecl-link__label">Latest updates</span></a></li><li class="ecl-site-footer__list-item"><a
+  href="https://ec.europa.eu/health/electronic-publications_en"
+  class="ecl-link ecl-link--standalone ecl-link--inverted ecl-site-footer__link"
+   data-section-label-untranslated="Follow&#x20;us" data-footer-link-label="Health&#x20;&amp;&#x20;Food&#x20;Safety&#x20;Newsletters"
+>Health &amp; Food Safety Newsletters</a></li></ul></div></div><div class="ecl-site-footer__column"><div class="ecl-site-footer__section"><h2 class="ecl-site-footer__title">About us</h2><ul class="ecl-site-footer__list"><li class="ecl-site-footer__list-item"><a
+  href="https://ec.europa.eu/info/departments/health-and-food-safety_en"
+  class="ecl-link ecl-link--standalone ecl-link--inverted ecl-site-footer__link"
+   data-section-label-untranslated="About&#x20;us" data-footer-link-label="Directorate-General&#x20;for&#x20;Health&#x20;and&#x20;Food&#x20;Safety"
+>Directorate-General for Health and Food Safety</a></li></ul></div><div class="ecl-site-footer__section"><h2 class="ecl-site-footer__title">Related sites</h2><ul class="ecl-site-footer__list"><li class="ecl-site-footer__list-item"><a
+  href="https://webgate.ec.europa.eu/hpf/"
+  class="ecl-link ecl-link--standalone ecl-link--inverted ecl-site-footer__link"
+   data-section-label-untranslated="Related&#x20;sites" data-footer-link-label="EU&#x20;Health&#x20;Policy&#x20;Platform"
+>EU Health Policy Platform</a></li><li class="ecl-site-footer__list-item"><a
+  href="https://ec.europa.eu/food/index_en"
+  class="ecl-link ecl-link--standalone ecl-link--inverted ecl-site-footer__link"
+   data-section-label-untranslated="Related&#x20;sites" data-footer-link-label="Food&#x20;Safety"
+>Food Safety</a></li><li class="ecl-site-footer__list-item"><a
+  href="https://ec.europa.eu/health/eu-health-policy/interest-groups/eu-health-award_en"
+  class="ecl-link ecl-link--standalone ecl-link--inverted ecl-site-footer__link"
+   data-section-label-untranslated="Related&#x20;sites" data-footer-link-label="EU&#x20;Health&#x20;Award"
+>EU Health Award</a></li></ul></div></div></div><div class="ecl-site-footer__row"><div class="ecl-site-footer__column"><div class="ecl-site-footer__section"><a
+  href="https://commission.europa.eu/index_en"
+  class="ecl-link ecl-link--standalone ecl-site-footer__logo-link"
+   aria-label="Home&#x20;-&#x20;European&#x20;Commission"
+><picture class="ecl-picture ecl-site-footer__picture" title="European&#x20;Commission"><source 
+                  srcset="/themes/contrib/oe_theme/dist/ec/images/logo/negative/logo-ec--en.svg"
+                          media="(min-width: 996px)"
+                      ><img 
+          class="ecl-site-footer__logo-image"
+              src="/themes/contrib/oe_theme/dist/ec/images/logo/negative/logo-ec--en.svg"
+              alt="European Commission logo"
+      /></picture></a></div></div><div class="ecl-site-footer__column"><div class="ecl-site-footer__section"><ul class="ecl-site-footer__list"><li class="ecl-site-footer__list-item"><a
+  href="https://commission.europa.eu/about-european-commission/contact_en"
+  class="ecl-link ecl-link--standalone ecl-link--inverted ecl-site-footer__link"
+   data-section-label-untranslated="service_navigation" data-footer-link-label="Contact&#x20;the&#x20;European&#x20;Commission"
+>Contact the European Commission</a></li><li class="ecl-site-footer__list-item"><a
+  href="https://european-union.europa.eu/contact-eu/social-media-channels_en#/search?page=0&amp;institutions=european_commission"
+  class="ecl-link ecl-link--standalone ecl-link--inverted ecl-site-footer__link"
+   data-section-label-untranslated="service_navigation" data-footer-link-label="Follow&#x20;the&#x20;European&#x20;Commission&#x20;on&#x20;social&#x20;media"
+>Follow the European Commission on social media</a></li><li class="ecl-site-footer__list-item"><a
+  href="https://commission.europa.eu/resources-partners_en"
+  class="ecl-link ecl-link--standalone ecl-link--inverted ecl-site-footer__link"
+   data-section-label-untranslated="service_navigation" data-footer-link-label="Resources&#x20;for&#x20;partners"
+>Resources for partners</a></li></ul></div></div><div class="ecl-site-footer__column"><div class="ecl-site-footer__section"><ul class="ecl-site-footer__list"><li class="ecl-site-footer__list-item"><a
+  href="https://commission.europa.eu/languages-our-websites_en"
+  class="ecl-link ecl-link--standalone ecl-link--inverted ecl-site-footer__link"
+   data-section-label-untranslated="legal_navigation" data-footer-link-label="Languages&#x20;on&#x20;our&#x20;websites"
+>Languages on our websites</a></li><li class="ecl-site-footer__list-item"><a
+  href="https://commission.europa.eu/cookies_en"
+  class="ecl-link ecl-link--standalone ecl-link--inverted ecl-site-footer__link"
+   data-section-label-untranslated="legal_navigation" data-footer-link-label="Cookies"
+>Cookies</a></li><li class="ecl-site-footer__list-item"><a
+  href="https://commission.europa.eu/privacy-policy_en"
+  class="ecl-link ecl-link--standalone ecl-link--inverted ecl-site-footer__link"
+   data-section-label-untranslated="legal_navigation" data-footer-link-label="Privacy&#x20;policy"
+>Privacy policy</a></li><li class="ecl-site-footer__list-item"><a
+  href="https://commission.europa.eu/legal-notice_en"
+  class="ecl-link ecl-link--standalone ecl-link--inverted ecl-site-footer__link"
+   data-section-label-untranslated="legal_navigation" data-footer-link-label="Legal&#x20;notice"
+>Legal notice</a></li></ul></div></div></div></div></footer>
+
+
+  
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"system\/files","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en","urlSuffixes":["bg","es","cs","da","de","et","el","en","fr","ga","hr","it","lv","lt","hu","mt","nl","pl","pt","ro","sk","sl","fi","sv","ar","ca","is","no","tr","uk","ru","zh","lb","sw","he"],"currentQuery":{"file":"2022-02\/regulation5362014_qa_en_1.pdf"}},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"user":{"uid":0,"permissionsHash":"9e6f8512539377c5455716605bbec16f10308c5a9461b73c30f10c9ec9323b46"}}</script>
+<script src="/sites/default/files/js/js_MXgXx3JZhvEXr7VgUiN2usV2y-uzWBhUrROlaKXhwjg.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=ewcms_theme&amp;include=eJxVjFEOwjAMQy9U6JGitDNQqW2mJNvo7QFtgPZn-9kWkD_QELO0WTq6Uy1JWQchBwFtSC5SLU66zFyvX3-xxupVeIIGG-ZoMbHhs9kf8XRo50q23v_prKV7wJabHcmtoE70a5cs_cR3zW82vGQ7s0y26IrxAivOT3o"></script>
+<script src="https://europa.eu/webtools/load.js" defer></script>
+<script src="/sites/default/files/js/js_0JcWsQGqWArMXoXD-lms4KtyQ4TPdqcm9N4izvpDwUY.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=ewcms_theme&amp;include=eJxVjFEOwjAMQy9U6JGitDNQqW2mJNvo7QFtgPZn-9kWkD_QELO0WTq6Uy1JWQchBwFtSC5SLU66zFyvX3-xxupVeIIGG-ZoMbHhs9kf8XRo50q23v_prKV7wJabHcmtoE70a5cs_cR3zW82vGQ7s0y26IrxAivOT3o"></script>
+<script src="https://ec.europa.eu/wel/surveys/wr_survey01/wr_survey.js" defer></script>
+
+  </body>
+</html>
